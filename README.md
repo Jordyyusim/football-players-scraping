@@ -24,8 +24,8 @@ A web scraping pipeline built in **Python** to extract structured football data 
 
 ## 📸 Screenshots
 
-![1](screenshots/homepage.png)
-![2](screenshots/resultpage.png)
+![1](football-players-scraping/screenshots/dtypes.png)
+![2](football-players-scraping/screenshots/head.png)
 
 ---
 
